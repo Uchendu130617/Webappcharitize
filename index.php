@@ -238,12 +238,12 @@
                     <h1 class="display-6 mb-4 wow fadeIn" data-wow-delay="0.2s">Join Hands, Change the World</h1>
                     <p class="mb-4 wow fadeIn" data-wow-delay="0.3s">Every hand extended in kindness brings us closer to
                         a world free from suffering. Be part of a global movement dedicated to building a future where
-                        equality and compassion thrives for a better living.</p>
+                        equality and compassion thrive.</p>
                     <div class="row g-4 pt-2">
                         <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
                             <div class="h-100">
                                 <h3>Our Mission</h3>
-                                <p>Our mission is to uplift underprivileged communities by providing resources,
+                                <p>Our core mission is to uplift underprivileged communities by providing resources,
                                     education, and tools for growth.</p>
                                 <p class="text-dark"><i class="fa fa-check text-primary me-2"></i>No one should go to
                                     bed hungry.</p>
